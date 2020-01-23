@@ -1,7 +1,7 @@
 # angular-package-library
 Hi there, this this small snippets to learn about Angular package the library :)
 
-1) first create blank angualr project `new new demo`
+1) first create blank angualr project `new new demo --createApplication=false`
 2) hit this command to create lib - `ng generate library my-lib`
 
 3) then it will create library inside project directory -> inside library delete all files expect `my-lib.module.ts` file, then create following files - 
